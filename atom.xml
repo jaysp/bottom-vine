@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[That's the Bottom Vine]]></title>
+  <title><![CDATA[Today's Bottom Vine]]></title>
   <link href="http://jaysp.github.io/bottom-vine/atom.xml" rel="self"/>
   <link href="http://jaysp.github.io/bottom-vine/"/>
-  <updated>2014-11-22T23:12:52-06:00</updated>
+  <updated>2014-11-22T23:16:54-06:00</updated>
   <id>http://jaysp.github.io/bottom-vine/</id>
   <author>
     <name><![CDATA[Jay Sprouse]]></name>
