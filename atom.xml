@@ -4,7 +4,7 @@
   <title><![CDATA[That's the Bottom Vine]]></title>
   <link href="http://jaysp.github.io/bottom-vine/atom.xml" rel="self"/>
   <link href="http://jaysp.github.io/bottom-vine/"/>
-  <updated>2014-11-22T22:55:38-06:00</updated>
+  <updated>2014-11-22T23:04:40-06:00</updated>
   <id>http://jaysp.github.io/bottom-vine/</id>
   <author>
     <name><![CDATA[Jay Sprouse]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Fresh Start]]></title>
+    <link href="http://jaysp.github.io/bottom-vine/blog/2014/11/22/a-fresh-start/"/>
+    <updated>2014-11-22T23:03:17-06:00</updated>
+    <id>http://jaysp.github.io/bottom-vine/blog/2014/11/22/a-fresh-start</id>
+    <content type="html"><![CDATA[<h1>And That&rsquo;s the bottom Vine</h1>
+
+<p>Hey everyone I&rsquo;m no semallie</p>
+]]></content>
+  </entry>
   
 </feed>
